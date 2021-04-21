@@ -84,10 +84,10 @@ const  Insideservice =()=>{
     <Col>  
 <Card variant="outlined"style={{maxheight:400, marginTop:40, width:200}} >
     <CardContent>
-      <img src="/images/nursing.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
-      <h5> Praveen Rathwaththa </h5>
+      <img src="/images/carpenting.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
+      <h5> Sujatha perera </h5>
       
-      <h6> nursing</h6>
+      <h6> Carpenting</h6>
       
       <Button variant="outlined" href="" color="secondary" style={{ }}> Hire Now </Button> 
     </CardContent>
@@ -97,23 +97,10 @@ const  Insideservice =()=>{
     <Col>  
 <Card   variant="outlined"style={{maxheight:400, marginTop:40, width:200}} >
     <CardContent>
-      <img src="/images/nursing.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
-      <h5> Praveen Rathwaththa </h5>
+      <img src="/images/eldercare.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
+      <h5> Samaya weerawardana</h5>
       
-      <h6> nursing</h6>
-      
-      <Button variant="outlined" href="" color="secondary" style={{ }}> Hire Now </Button> 
-    </CardContent>
-    </Card>
-    </Col>
-
-    <Col>  
-<Card  variant="outlined"style={{maxheight:400, marginTop:40, width:200}} >
-    <CardContent>
-      <img src="/images/nursing.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
-      <h5> Praveen Rathwaththa </h5>
-      
-      <h6> nursing</h6>
+      <h6> Eldercare </h6>
       
       <Button variant="outlined" href="" color="secondary" style={{ }}> Hire Now </Button> 
     </CardContent>
@@ -123,10 +110,23 @@ const  Insideservice =()=>{
     <Col>  
 <Card  variant="outlined"style={{maxheight:400, marginTop:40, width:200}} >
     <CardContent>
-      <img src="/images/nursing.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
-      <h5> Praveen Rathwaththa </h5>
+      <img src="/images/concrete.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
+      <h5> Muditha bashitha </h5>
       
-      <h6> nursing</h6>
+      <h6> Construction</h6>
+      
+      <Button variant="outlined" href="" color="secondary" style={{ }}> Hire Now </Button> 
+    </CardContent>
+    </Card>
+    </Col>
+
+    <Col>  
+<Card  variant="outlined"style={{maxheight:400, marginTop:40, width:200}} >
+    <CardContent>
+      <img src="/images/ac_techniction.png" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
+      <h5> Janaka Rathwaththa </h5>
+      
+      <h6> AC Tech </h6>
       
       <Button variant="outlined" href="" color="secondary" style={{ }}> Hire Now </Button> 
     </CardContent>
@@ -138,10 +138,10 @@ const  Insideservice =()=>{
     <Col>  
 <Card  variant="outlined"style={{maxheight:400, marginTop:40, width:200}} >
     <CardContent>
-      <img src="/images/nursing.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
-      <h5> Praveen Rathwaththa </h5>
+      <img src="/images/delivery.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
+      <h5> Praveen sumudu </h5>
       
-      <h6> nursing</h6>
+      <h6>Delivery</h6>
       
       <Button variant="outlined" href="" color="secondary" style={{ }}> Hire Now </Button> 
     </CardContent>
@@ -152,10 +152,10 @@ const  Insideservice =()=>{
     <Col>  
 <Card   variant="outlined"style={{maxheight:400, marginTop:40, width:200}} >
     <CardContent>
-      <img src="/images/nursing.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
-      <h5> Praveen Rathwaththa </h5>
+      <img src="/images/gcutting.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
+      <h5> Tharindu dananjaya</h5>
       
-      <h6> nursing</h6>
+      <h6> Gardning</h6>
       
       <Button variant="outlined" href="" color="secondary" style={{ }}> Hire Now </Button> 
     </CardContent>
@@ -167,10 +167,10 @@ const  Insideservice =()=>{
     <Col>  
 <Card  variant="outlined"style={{maxheight:400, marginTop:40, width:200}} >
     <CardContent>
-      <img src="/images/nursing.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
-      <h5> Praveen Rathwaththa </h5>
+      <img src="/images/painters.jpg" style={{width:170, marginLeft:-4,maxHeight:120,borderRadius:10}} />
+      <h5> Mohan Savinda </h5>
       
-      <h6> nursing</h6>
+      <h6> Painting</h6>
       
       <Button variant="outlined" href="" color="secondary" style={{ }}> Hire Now </Button> 
     </CardContent>

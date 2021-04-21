@@ -9,7 +9,7 @@ const  Showaddedservices =()=>{
 
 return(
         <>
-        <img src="/images/backin.jpg " style={{width:1358, height:200 }}/>
+        <img src="/images/backin.jpg " style={{width:1508, height:200 }}/>
         <h3 style={{marginTop:-50 ,marginLeft:30, color:"white" }}> Show Added Services </h3>
         
     <Container style={{marginTop:50}}>     
@@ -19,7 +19,7 @@ return(
     <Card style={{ width: '18rem' }}>
   
   <Card.Body>
-    <Card.Title>Pramudya Thilakarathna</Card.Title>
+    <Card.Title>Janaka Thilakarathna</Card.Title>
     <Card.Text>
       Nursing
     </Card.Text>
@@ -39,7 +39,7 @@ return(
   <Card.Body>
     <Card.Title>Pramudya Thilakarathna</Card.Title>
     <Card.Text>
-      Nursing
+      Carpenting
     </Card.Text>
     <Button variant="danger">Remove Service</Button>
 
@@ -56,9 +56,9 @@ return(
     <Card style={{ width: '18rem' }}>
   
   <Card.Body>
-    <Card.Title>Pramudya Thilakarathna</Card.Title>
+    <Card.Title>Janaka Thilakarathna</Card.Title>
     <Card.Text>
-      Nursing
+      Eldercare 
     </Card.Text>
     <Button variant="danger">Remove Service</Button>
 
@@ -75,25 +75,7 @@ return(
     <Card style={{ width: '18rem' }}>
   
   <Card.Body>
-    <Card.Title>Pramudya Thilakarathna</Card.Title>
-    <Card.Text>
-      Nursing
-    </Card.Text>
-    <Button variant="danger">Remove Service</Button>
-
-  </Card.Body>
-</Card>
-    
-    </Col>
-
-
-
-    <Col style={{marginTop:10}}>
-    
-    <Card style={{ width: '18rem' }}>
-  
-  <Card.Body>
-    <Card.Title>Pramudya Thilakarathna</Card.Title>
+    <Card.Title>Savindya perera </Card.Title>
     <Card.Text>
       Nursing
     </Card.Text>
@@ -111,7 +93,25 @@ return(
     <Card style={{ width: '18rem' }}>
   
   <Card.Body>
-    <Card.Title>Pramudya Thilakarathna</Card.Title>
+    <Card.Title>Samara  Thilakarathna</Card.Title>
+    <Card.Text>
+      Gardning 
+    </Card.Text>
+    <Button variant="danger">Remove Service</Button>
+
+  </Card.Body>
+</Card>
+    
+    </Col>
+
+
+
+    <Col style={{marginTop:10}}>
+    
+    <Card style={{ width: '18rem' }}>
+  
+  <Card.Body>
+    <Card.Title>Nimali Perera</Card.Title>
     <Card.Text>
       Nursing
     </Card.Text>
