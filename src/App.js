@@ -19,7 +19,7 @@ import Profile from './components/pages/profile'
 import Insideservice from './components/pages/insideservice'
 import Showaddedservices from './components/pages/showaddedservices'
 import UploadServices from './components/pages/uploadservice'
-
+import Servicem from './components/pages/servicem'
 
 function App() {
   return (
@@ -37,6 +37,8 @@ function App() {
           <Route path='/insideservice' component={Insideservice} /> 
           <Route path='/showaddedservices' component={Showaddedservices} /> 
           <Route path='/uploadservice' component={UploadServices} /> 
+          <Route path='/servicem' component={Servicem} /> 
+
         </Switch>
         <Switch>
         </Switch>
