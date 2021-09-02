@@ -4,7 +4,7 @@ Service providing application created with react js where user can serach for th
 
 
 
-Its created for the univercity project under the module of Distributed Systems .. 
+Its created for the univerSity project under the module of Distributed Systems .. 
 
 Along with, 
  Kavindu prabashwara,
